@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Pavan+Kumar+Paladugu;DevOps+Consultant+%40+Deloitte;AWS+%7C+Terraform+%7C+Kubernetes+%7C+ECS+Fargate;AWS+Certified+DevOps+Engineer+Professional;HashiCorp+Certified+Terraform+Associate" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Pavan%20Kumar%20Paladugu&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Consultant%20%40%20Deloitte%20%7C%20AWS%20%7C%20Terraform%20%7C%20Kubernetes&descAlignY=55&descSize=16&descFontColor=a8d8ea)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AWS+Certified+DevOps+Engineer+Professional;HashiCorp+Certified+Terraform+Associate;8+AI+Apps+%7C+25%2B+Microservices+%7C+16+CI%2FCD+Pipelines;ECS+Fargate+%7C+GitOps+%7C+Multi-Region+Terraform" alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +15,7 @@
 
 ---
 
-<img align="right" alt="DevOps" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="DevOps" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 👨‍💻 About Me
 
@@ -100,11 +102,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Solo7568&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=-1)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Solo7568&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Solo7568)
 
 </div>
 
@@ -119,6 +121,8 @@
 </div>
 
 ---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&fontColor=ffffff)
 
 <div align="center">
 
